@@ -1,1 +1,0 @@
-cmd_/home/c/share/kernel_bridge/modules/bridge/netfilter/built-in.o :=  rm -f /home/c/share/kernel_bridge/modules/bridge/netfilter/built-in.o; ar rcSTPD /home/c/share/kernel_bridge/modules/bridge/netfilter/built-in.o
